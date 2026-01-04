@@ -40,5 +40,5 @@
 </div>
 
 ---
-![Snake animation](https://github.com/deepmalyakoley/deepmalyakoley/blob/output/snake.svg) 
+
 ---
