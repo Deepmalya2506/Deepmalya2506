@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Deepmalya</h1>
-<h3 align="center">A 2nd year undergrad at UEM-Kolkata | Passionate about Astronomy & Geospatial Analysis</h3>
+<h3 align="center">A 2nd year undergrad at UEM-Kolkata | Passionate about Connecting Dots to build AI solutions</h3>
 
 ---
 
