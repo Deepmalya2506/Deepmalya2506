@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Deepmalya</h1>
-<h3 align="center">A 2nd year undergrad at IEM-Kolkata | Passionate about Connecting Dots to build constellations of AI solutions</h3>
+<h3 align="center">A 2nd year undergrad at IEM, Newtown | A Star-Gazer building himself up </h3>
 
 ---
 
