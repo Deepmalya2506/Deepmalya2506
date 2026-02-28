@@ -1,0 +1,63 @@
+name: Cosmic Greeting for First-Time Explorers
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+          🌌✨ **Like a distant star awakening in the velvet unknown,**  
+          you've just lit up this corner of the cosmos. Welcome, fellow traveler!  
+
+                    .          .     *       .      🌌
+            .   *         .      .       *    .
+          *      .    🌠      .     *        .
+                .       .      *      .   ✨                        
+
+          I'm Deepmalya — a humble stargazer drifting between code nebulae and real galaxies.  
+          I find poetry in the spiral arms of Andromeda, the quiet pull of black holes, and the patient dance of commits building something greater.
+
+          > *One faint light at a time, we map the infinite.*
+
+          Your arrival here feels like a new constellation forming — warm, unexpected, beautiful.  
+          Thank you for sharing your thoughts or curiosity with this repo.
+
+          To make our journey together even more stellar:
+
+          - [ ] Star this repo if a spark of inspiration struck 🌟  
+          - [ ] Reply below: What's *your* favorite cosmic wonder (galaxy, nebula, or code mystery)?  
+          - [ ] Fork & explore — let's co-create under these endless skies  
+
+          May your path be illuminated by wonder and gentle solar winds.  
+          🚀 **Looking forward to sailing the stars with you.** 🌠
+
+        pr-message: |
+          🌌✨ **Like a distant star awakening in the velvet unknown,**  
+          your pull request has just appeared on the horizon — radiant and full of potential.
+
+          Welcome, kindred explorer! I'm Deepmalya, quietly charting courses through code and cosmos alike.  
+          Nebulae of curiosity and black-hole mysteries fuel both my nights and my branches.
+
+          > *We build not alone, but as gravity binds scattered dust into worlds.*
+
+          Thank you sincerely for contributing — your effort adds light to this universe we're shaping.  
+          I'll review with care and humility; let's refine it together if needed.
+
+          Quick cosmic checkpoints:
+          - [ ] Happy with the changes? **Star** the repo to show some love 🌟  
+          - [ ] Got ideas to expand this galaxy? **Reply** here — I'm all ears (and telescopes)  
+          - [ ] Want to keep collaborating? **Fork** & keep the pull requests coming  
+
+          Grateful for your energy.  
+          🚀 **May our merged paths shine brighter than any single star.** 🌠
