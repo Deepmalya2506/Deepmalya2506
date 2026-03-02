@@ -4,7 +4,7 @@
 ---
 
 ## About Me
- 🔭 Exploring the universe by connecting **Astronomy with Algorithms**  <br>🌍 Enthusiastic about **Geospatial Analysis** — mapping, clustering, and solving real-world problems <br>🧑‍💻 Learning and Building with **Machine Learning, Data Visualization, and Spatial Optimization** <br>🎯 Goal: To build scalable ML pipelines and AI solutions that solve real time problems in **science & society**
+ "Tat tvam asi" - I am that <br>🔭 Exploring the universe by connecting **Astronomy with Algorithms**  <br>🌍 Enthusiastic about **Geospatial Analysis** — mapping, clustering, and solving real-world problems <br>🧑‍💻 Learning and Building with **Machine Learning, Data Visualization, and Spatial Optimization** <br>🎯 Goal: To build scalable ML pipelines and AI solutions that solve real time problems in **science & society**
 
 
 ## Socials
